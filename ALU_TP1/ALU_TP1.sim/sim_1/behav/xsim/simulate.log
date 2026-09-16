@@ -1,0 +1,68 @@
+Time resolution is 1 ps
+
+==============================================
+       INICIO TESTBENCH ALU
+       WIDTH = 8
+==============================================
+
+--- ADD ---
+[PASS] A=0a B=05 OP=100000 -> Result=0f Zero=0
+[PASS] A=00 B=00 OP=100000 -> Result=00 Zero=1
+[PASS] A=64 B=1b OP=100000 -> Result=7f Zero=0
+
+--- SUB ---
+[PASS] A=0a B=05 OP=100010 -> Result=05 Zero=0
+[PASS] A=05 B=0a OP=100010 -> Result=fb Zero=0
+[PASS] A=0a B=0a OP=100010 -> Result=00 Zero=1
+
+--- AND ---
+[PASS] A=aa B=cc OP=100100 -> Result=88 Zero=0
+[PASS] A=ff B=00 OP=100100 -> Result=00 Zero=1
+
+--- OR ---
+[PASS] A=aa B=cc OP=100101 -> Result=ee Zero=0
+[PASS] A=00 B=00 OP=100101 -> Result=00 Zero=1
+
+--- XOR ---
+[PASS] A=aa B=cc OP=100110 -> Result=66 Zero=0
+[PASS] A=ff B=ff OP=100110 -> Result=00 Zero=1
+
+--- NOR ---
+[PASS] A=aa B=cc OP=100111 -> Result=11 Zero=0
+[PASS] A=00 B=00 OP=100111 -> Result=ff Zero=0
+
+--- SRL ---
+[PASS] A=80 B=01 OP=000010 -> Result=40 Zero=0
+[PASS] A=80 B=02 OP=000010 -> Result=20 Zero=0
+[PASS] A=ff B=04 OP=000010 -> Result=0f Zero=0
+
+--- SRA ---
+[PASS] A=80 B=01 OP=000011 -> Result=c0 Zero=0
+[PASS] A=f0 B=02 OP=000011 -> Result=fc Zero=0
+[PASS] A=40 B=02 OP=000011 -> Result=10 Zero=0
+
+--- CASOS LIMITE ---
+[PASS] A=ff B=01 OP=100000 -> Result=00 Zero=1
+[PASS] A=00 B=01 OP=100010 -> Result=ff Zero=0
+[PASS] A=ff B=ff OP=100000 -> Result=fe Zero=0
+[PASS] A=ff B=ff OP=100100 -> Result=ff Zero=0
+[PASS] A=ff B=ff OP=100101 -> Result=ff Zero=0
+[PASS] A=ff B=ff OP=100110 -> Result=00 Zero=1
+
+--- OPERACION INVALIDA ---
+[PASS] A=aa B=55 OP=111111 -> Result=00 Zero=1
+
+--- PRUEBAS ALEATORIAS ---
+
+==============================================
+             RESULTADO FINAL
+==============================================
+Tests totales : 127
+Tests PASS    : 127
+Tests FAIL    : 0
+
+**************************************
+         TODOS LOS TESTS PASS
+**************************************
+
+$finish called at time : 127 ns : File "C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/sim_1/new/alu_tb.v" Line 560

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Sep  9 18:05:28 2026
+# Process ID: 14380
+# Current directory: C:/Users/Jose/ALU_TP1/ALU_TP1.runs/impl_1
+# Command line: vivado.exe -log basys3_alu_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source basys3_alu_top.tcl -notrace
+# Log file: C:/Users/Jose/ALU_TP1/ALU_TP1.runs/impl_1/basys3_alu_top.vdi
+# Journal file: C:/Users/Jose/ALU_TP1/ALU_TP1.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-RRFGTIG
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+# CPU Frequency     :1800 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :8471 MB
+# Swap memory       :8589 MB
+# Total Virtual     :17061 MB
+# Available Virtual :3765 MB
+#-----------------------------------------------------------
+source basys3_alu_top.tcl -notrace
