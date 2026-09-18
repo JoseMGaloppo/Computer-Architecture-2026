@@ -65,4 +65,4 @@ Tests FAIL    : 0
          TODOS LOS TESTS PASS
 **************************************
 
-$finish called at time : 127 ns : File "C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/sim_1/new/alu_tb.v" Line 560
+$finish called at time : 127 ns : File "C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.srcs/sim_1/new/alu_tb.v" Line 560

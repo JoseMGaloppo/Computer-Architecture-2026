@@ -7,8 +7,8 @@ Starting static elaboration
 Pass Through NonSizing Optimizer
 Completed static elaboration
 Starting simulation data flow analysis
-WARNING: [XSIM 43-4099] "C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/sources_1/new/alu.v" Line 7. Module alu doesn't have a timescale but at least one module in design has a timescale.
-WARNING: [XSIM 43-4099] "C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/sources_1/new/alu.v" Line 7. Module alu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.srcs/sources_1/new/alu.v" Line 7. Module alu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.srcs/sources_1/new/alu.v" Line 7. Module alu doesn't have a timescale but at least one module in design has a timescale.
 Completed simulation data flow analysis
 Time Resolution for simulation is 1ps
 Compiling module xil_defaultlib.alu

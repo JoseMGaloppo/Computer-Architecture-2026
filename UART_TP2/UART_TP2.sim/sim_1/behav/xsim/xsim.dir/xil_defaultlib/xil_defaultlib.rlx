@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.srcs/sources_1/new/alu.v,1788986480,verilog,,C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/baud_gen.v,,alu,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sim_1/new/testbench.v,1789740644,verilog,,,,tb_uart_alu_system,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/RX_mod.v,1789736986,verilog,,C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/TX_mod.v,,uart_rx,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/TX_mod.v,1789738594,verilog,,C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.srcs/sources_1/new/alu.v,,uart_tx,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/baud_gen.v,1789739378,verilog,,C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/int_rx.v,,baud_rate_generator,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/int_rx.v,1789738546,verilog,,C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/int_tx.v,,rx_alu_interface,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/int_tx.v,1789738567,verilog,,C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/top_UART.v,,alu_tx_interface,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sources_1/new/top_UART.v,1789739396,verilog,,C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sim_1/new/testbench.v,,uart_alu_system_top,,,,,,,,

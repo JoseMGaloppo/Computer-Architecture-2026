@@ -25,7 +25,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/Jose/ALU_TP1/ALU_TP1.runs/impl_1'
+HD_PWD='C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.runs/impl_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
@@ -42,7 +42,7 @@ EAStep()
 }
 
 # pre-commands:
-/bin/touch .init_design.begin.rst
+/bin/touch .write_bitstream.begin.rst
 EAStep vivado -log basys3_alu_top.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source basys3_alu_top.tcl -notrace
 
 

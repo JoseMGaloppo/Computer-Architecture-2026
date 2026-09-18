@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Sep 18 11:12:37 2026
+# Process ID: 6820
+# Current directory: C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.runs/impl_1
+# Command line: vivado.exe -log uart_alu_system_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source uart_alu_system_top.tcl -notrace
+# Log file: C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.runs/impl_1/uart_alu_system_top.vdi
+# Journal file: C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-RRFGTIG
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+# CPU Frequency     :1800 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :8471 MB
+# Swap memory       :8321 MB
+# Total Virtual     :16792 MB
+# Available Virtual :4358 MB
+#-----------------------------------------------------------
+source uart_alu_system_top.tcl -notrace

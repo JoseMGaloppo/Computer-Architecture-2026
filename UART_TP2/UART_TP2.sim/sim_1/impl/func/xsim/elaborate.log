@@ -1,0 +1,37 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot tb_uart_alu_system_func_impl xil_defaultlib.tb_uart_alu_system xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-2861] module 'uart_alu_system_top' does not have a parameter named CLK_FREQ [C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sim_1/new/testbench.v:34]
+WARNING: [VRFC 10-2861] module 'uart_alu_system_top' does not have a parameter named BAUD_RATE [C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sim_1/new/testbench.v:35]
+WARNING: [VRFC 10-2861] module 'uart_alu_system_top' does not have a parameter named DBIT [C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sim_1/new/testbench.v:36]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.CARRY4
+Compiling module xil_defaultlib.alu
+Compiling module unisims_ver.LUT5
+Compiling module unisims_ver.x_lut3_mux8
+Compiling module unisims_ver.LUT3
+Compiling module unisims_ver.LUT6
+Compiling module unisims_ver.LUT4
+Compiling module unisims_ver.FDCE_default
+Compiling module xil_defaultlib.baud_rate_generator
+Compiling module unisims_ver.BUFG
+Compiling module unisims_ver.IBUF
+Compiling module unisims_ver.FDPE_default
+Compiling module unisims_ver.x_lut2_mux4
+Compiling module unisims_ver.LUT2
+Compiling module xil_defaultlib.rx_alu_interface
+Compiling module xil_defaultlib.alu_tx_interface
+Compiling module xil_defaultlib.uart_rx
+Compiling module xil_defaultlib.uart_tx
+Compiling module unisims_ver.OBUF
+Compiling module xil_defaultlib.uart_alu_system_top
+Compiling module xil_defaultlib.tb_uart_alu_system
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_uart_alu_system_func_impl

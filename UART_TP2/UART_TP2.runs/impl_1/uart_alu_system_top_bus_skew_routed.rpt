@@ -1,0 +1,16 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
+| Date         : Fri Sep 18 11:13:50 2026
+| Host         : DESKTOP-RRFGTIG running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file uart_alu_system_top_bus_skew_routed.rpt -pb uart_alu_system_top_bus_skew_routed.pb -rpx uart_alu_system_top_bus_skew_routed.rpx
+| Design       : uart_alu_system_top
+| Device       : 7a35t-cpg236
+| Speed File   : -1  PRODUCTION 1.23 2018-06-13
+| Design State : Routed
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

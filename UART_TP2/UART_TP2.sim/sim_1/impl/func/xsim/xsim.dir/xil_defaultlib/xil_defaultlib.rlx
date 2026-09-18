@@ -1,0 +1,6 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.sim/sim_1/impl/func/xsim/tb_uart_alu_system_func_impl.v,1789740401,verilog,,C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sim_1/new/testbench.v,,alu;alu_tx_interface;baud_rate_generator;glbl;rx_alu_interface;uart_alu_system_top;uart_rx;uart_tx,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/UART_TP2/UART_TP2.srcs/sim_1/new/testbench.v,1789740196,verilog,,,,tb_uart_alu_system,,,,,,,,

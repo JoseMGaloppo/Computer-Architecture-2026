@@ -2,8 +2,8 @@
 2020.2
 May 22 2024
 19:03:11
-C:/Users/Jose/ALU_TP1/ALU_TP1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
-C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/sim_1/new/alu_tb.v,1788983048,verilog,,,,alu_tb,,,,,,,,
-C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/sources_1/new/alu.v,1788292848,verilog,,C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/sim_1/new/alu_tb.v,,alu,,,,,,,,
 C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/sources_1/new/basys3_alu_top.v,1788292832,verilog,,,,basys3_alu_top,,,,,,,,
 C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/sources_1/new/debounce.v,1788289662,verilog,,C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/sources_1/new/basys3_alu_top.v,,debounce,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.srcs/sim_1/new/alu_tb.v,1788983048,verilog,,,,alu_tb,,,,,,,,
+C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.srcs/sources_1/new/alu.v,1788986480,verilog,,C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.srcs/sim_1/new/alu_tb.v,,alu,,,,,,,,

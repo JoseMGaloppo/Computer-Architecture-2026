@@ -1,4 +1,4 @@
-set_property SRC_FILE_INFO {cfile:C:/Users/Jose/ALU_TP1/ALU_TP1.srcs/constrs_1/new/basys3_alu.xdc rfile:../../../ALU_TP1.srcs/constrs_1/new/basys3_alu.xdc id:1} [current_design]
+set_property SRC_FILE_INFO {cfile:C:/Users/Jose/TPs/Computer-Architecture-2026/ALU_TP1/ALU_TP1.srcs/constrs_1/new/basys3_alu.xdc rfile:../../../ALU_TP1.srcs/constrs_1/new/basys3_alu.xdc id:1} [current_design]
 set_property src_info {type:XDC file:1 line:11 export:INPUT save:INPUT read:READ} [current_design]
 set_property -dict { PACKAGE_PIN W5 IOSTANDARD LVCMOS33 } [get_ports clk]
 set_property src_info {type:XDC file:1 line:17 export:INPUT save:INPUT read:READ} [current_design]
