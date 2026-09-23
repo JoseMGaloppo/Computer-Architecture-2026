@@ -52,5 +52,4 @@ Una vez completada la fase de implementación y ruteo (Implementation & Routing)
 
 ## 6. Conclusiones
 
-El diseño y la implementación de la ALU permitieron consolidar los conceptos teóricos de arquitectura de computadoras mediante la práctica en hardware real. 
-Se comprobó exitosamente el funcionamiento de la lógica combinacional para resolver las distintas operaciones, destacando la importancia de la definición del tipo de dato (`signed`) en Verilog para el correcto manejo de operaciones aritméticas (SRA). El sistema de control mediante registros y multiplexación temporal con los switches demostró ser una solución eficiente para minimizar la cantidad de pines I/O necesarios, aprovechando al máximo los recursos disponibles en la FPGA.
+La implementación en hardware validó el diseño de la lógica combinacional de la ALU. Se comprobó que declarar los operandos como signed en Verilog es indispensable para la correcta inferencia y síntesis del corrimiento aritmético (SRA). Además, la captura secuencial de datos en registros permitió multiplexar las entradas de los switches, lo que redujo significativamente la necesidad de pines I/O y optimizó la utilización de los recursos de la FPGA.
